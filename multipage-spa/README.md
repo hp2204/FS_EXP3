@@ -1,89 +1,61 @@
-# MultiPage SPA (Single Page Application)
+# MultiPage SPA using React (JavaScript)
 
-A simple Multi-Page Single Page Application (SPA) built using HTML, CSS, and JavaScript.  
-This project provides a multi-page experience while running as a single-page app without browser reloads.
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](./photos/multipage_one.png)
-
-
-
-### 👤 Profile Page
-![Profile Page](https://raw.githubusercontent.com/Shivi714/exp-3/main/multipage-spa/assets/profile.png)
-
-### 📊 Dashboard Page
-![Dashboard Page](https://raw.githubusercontent.com/Shivi714/exp-3/main/multipage-spa/assets/dashboard.png)
+This project is a **Multi-Page Single Page Application (SPA)** developed using **React and JavaScript**.  
+It contains multiple pages like Profile and Dashboard while still working as a single-page application.
 
 ---
 
-## ✨ Features
+## 📌 Features
 
-- Multi-page navigation without refresh
+- Multi-page layout in a Single Page Application
+- Profile page with photo, personal info, projects and internship
+- Dashboard page with skills and LinkedIn section
+- Component-based architecture
 - Simple and clean UI
-- Beginner-friendly project
-- Fast loading
+- Beginner friendly project
 
 ---
 
-## 🛠 Technologies Used
-
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)
-
----
-
-## 📁 Project Structure
+## 📂 Folder Structure
 
 multipage-spa  
 │  
-├── assets  
+├── photos  
 │   ├── home.png  
 │   ├── profile.png  
 │   └── dashboard.png  
 │  
-├── css  
-│   └── style.css  
+├── public  
+├── src  
+│   ├── components  
+│   │   ├── Profile.js  
+│   │   ├── Dashboard.js  
+│   │   └── Navbar.js  
+│   │  
+│   ├── App.js  
+│   ├── index.js  
+│   └── App.css  
 │  
-├── js  
-│   └── script.js  
-│  
-└── index.html  
+├── package.json  
+└── README.md  
 
 ---
 
-## 🚀 How To Run
+## 🖼️ Screenshots
 
-1. Clone Repository
+### 🏠 Home Page
+![Home Page](./photos/multipage1.png)
 
-git clone https://github.com/Shivi714/exp-3.git
+### 👤 Profile Page
+![Profile Page](./photos/multipage1.png)
 
-2. Open Folder
-
-cd exp-3/multipage-spa
-
-3. Open index.html in browser
-
----
-
-## 🎯 Project Objective
-
-- Learn Single Page Application concept  
-- Practice JavaScript DOM manipulation  
-- Build navigation system  
+### 📊 Dashboard Page
+![Dashboard Page](./photos/multipage2.png)
 
 ---
 
-## 👩‍💻 Author
+## 🚀 How To Run Project
 
-Shivali
-
----
-
-## 📄 License
-
-This project is open-source and available for educational use.
+1. Install Node Modules
+```bash
+npm install
