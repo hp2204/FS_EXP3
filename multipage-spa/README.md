@@ -1,16 +1,87 @@
-# React + Vite
+# MultiPage SPA (Single Page Application)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Multi-Page Single Page Application (SPA) built using HTML, CSS, and JavaScript.  
+This project provides a multi-page experience while running as a single-page app without browser reloads.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## React Compiler
+### 🏠 Home Page
+![Home Page](multipage1.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 👤 Profile Page
+![Profile Page](https://raw.githubusercontent.com/Shivi714/exp-3/main/multipage-spa/assets/profile.png)
 
-## Expanding the ESLint configuration
+### 📊 Dashboard Page
+![Dashboard Page](https://raw.githubusercontent.com/Shivi714/exp-3/main/multipage-spa/assets/dashboard.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Multi-page navigation without refresh
+- Simple and clean UI
+- Beginner-friendly project
+- Fast loading
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)
+
+---
+
+## 📁 Project Structure
+
+multipage-spa  
+│  
+├── assets  
+│   ├── home.png  
+│   ├── profile.png  
+│   └── dashboard.png  
+│  
+├── css  
+│   └── style.css  
+│  
+├── js  
+│   └── script.js  
+│  
+└── index.html  
+
+---
+
+## 🚀 How To Run
+
+1. Clone Repository
+
+git clone https://github.com/Shivi714/exp-3.git
+
+2. Open Folder
+
+cd exp-3/multipage-spa
+
+3. Open index.html in browser
+
+---
+
+## 🎯 Project Objective
+
+- Learn Single Page Application concept  
+- Practice JavaScript DOM manipulation  
+- Build navigation system  
+
+---
+
+## 👩‍💻 Author
+
+Shivali
+
+---
+
+## 📄 License
+
+This project is open-source and available for educational use.
