@@ -9,6 +9,8 @@ This project provides a multi-page experience while running as a single-page app
 
 ### 🏠 Home Page
 ![Home Page](photos/multipage1.png)
+![Home Page](multipage-spa/photos/multipage1.png)
+
 
 ### 👤 Profile Page
 ![Profile Page](https://raw.githubusercontent.com/Shivi714/exp-3/main/multipage-spa/assets/profile.png)
