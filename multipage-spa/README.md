@@ -8,8 +8,8 @@ This project provides a multi-page experience while running as a single-page app
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](photos/multipage1.png)
-![Home Page](multipage-spa/photos/multipage1.png)
+![Home Page](./photos/multipage1.png)
+
 
 
 ### 👤 Profile Page
