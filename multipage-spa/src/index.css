@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #667eea, #764ba2);
+  font-family:'Times New Roman', Times, serif;
+  background: linear-gradient(to right, #630d14);
 }
 
 /* App Container */
@@ -9,7 +9,7 @@ body {
   max-width: 900px;
   margin: auto;
   padding: 20px;
-  color: white;
+  color: rgb(31, 1, 9);
   text-align: center;
 }
 
@@ -26,7 +26,7 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
-  color: white;
+  color: rgb(246, 214, 214);
   text-decoration: none;
   font-weight: bold;
 }
@@ -46,7 +46,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: rgb(248, 205, 205);
   margin: 0 15px;
   text-decoration: none;
   font-weight: bold;
@@ -58,7 +58,7 @@ nav a:hover {
 
 /* Card */
 .card {
-  background: white;
+  background: rgb(241, 210, 163);
   color: black;
   padding: 25px;
   border-radius: 15px;
@@ -80,7 +80,7 @@ ul {
 }
 
 li {
-  background: #f1f1f1;
+  background: #fee8b1;
   margin: 6px 0;
   padding: 8px;
   border-radius: 6px;
@@ -89,7 +89,7 @@ li {
 /* Button */
 .btn-link {
   display: inline-block;
-  background: #667eea;
+  background: #020c37;
   color: white;
   padding: 10px 20px;
   border-radius: 8px;
@@ -97,5 +97,5 @@ li {
 }
 
 .btn-link:hover {
-  background: #5a6fdc;
+  background: #020c3d;
 }

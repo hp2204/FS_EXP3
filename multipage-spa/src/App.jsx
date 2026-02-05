@@ -14,6 +14,7 @@ function App() {
       <nav>
         <Link to="/">Profile</Link>
         <Link to="/dashboard">Dashboard</Link>
+       
       </nav>
 
       <Routes>

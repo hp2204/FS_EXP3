@@ -1,4 +1,4 @@
-import profileImg from "../assets/cat.jpg";
+import profileImg from "../assets/cute-icon.jpg";
 
 function Profile() {
   return (
@@ -10,19 +10,20 @@ function Profile() {
         alt="Profile"
       />
 
-      <h2>Shivali</h2>
-      <p><b>Branch:</b> Computer Science</p>
-      <p><b>Email:</b> student@gmail.com</p>
+      <h2>  Harshita Pandey </h2>
+      <p><b>Branch:</b> CSE AI-ML</p>
+      <p><b>Email:</b> 23bai70468@cuchd.in</p>
 
       <h3>Projects</h3>
       <ul>
-        <li>Customer Churn Prediction</li>
+        <li>Medical Image Classification</li>
         <li>Fake News Detection</li>
-        <li>Diabetes Prediction</li>
+        <li></li>
       </ul>
 
-      <h3>Internship</h3>
-      <p>Deloitte Data Analytics Virtual Internship</p>
+      <h3>Internships</h3>
+      <p>NIT Kurukshetra: Summer Internship</p>
+      <p>Cisco Virtual Internship</p>
 
     </div>
   );

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import catIcon from "../assets/cat.jpg";
+import catIcon from "../assets/cute-icon.jpg";
 
 function Header() {
   return (
