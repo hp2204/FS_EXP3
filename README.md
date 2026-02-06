@@ -47,13 +47,13 @@ multipage-spa
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./photos/multipage1.png)
+![Home Page](./photos/multipage1.jpeg)
 
 ### 👤 Profile Page
-![Profile Page](./photos/multipage1.png)
+![Profile Page](./photos/multipage1.jpeg)
 
 ### 📊 Dashboard Page
-![Dashboard Page](./photos/multipage2.png)
+![Dashboard Page](./photos/multipage2.jpeg)
 
 ---
 
@@ -62,3 +62,4 @@ multipage-spa
 1. Install Node Modules
 ```bash
 npm install
+
