@@ -55,6 +55,14 @@ multipage-spa
 ### 📊 Dashboard Page
 ![Dashboard Page](./photos/multipage2.jpeg)
 
+### Home Page
+![Dashboard Page](./photos/spa1.jpeg)
+
+### About Page
+![Dashboard Page](./photos/spa2.jpeg)
+
+### Contact Page
+![Dashboard Page](./photos/spa3.jpeg)
 ---
 
 ## 🚀 How To Run Project
@@ -62,4 +70,5 @@ multipage-spa
 1. Install Node Modules
 ```bash
 npm install
+
 
